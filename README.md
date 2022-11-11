@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ash-hadu Faridi</h1>
 <h3 align="center">I am a driven individual who has a strong enthusiasm for the DATABASE and IT sectors. I can engage with a variety of clientele because I have outstanding interpersonal skills in addition to strong technical abilities. In order to develop and enhance my IT skills, I am eager for challenges. Additionally, I have strong communication skills that allow me to interact with a variety of people in an efficient manner. I am looking for a part-time job in the industry where I can use my skills and knowledge, thereby helping the business I work for run more smoothly.</h3>
 
@@ -15,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed muhammad ash-hadu faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muhammad ash-hadu faridi" height="30" width="40" /></a>
+<a href="https://fb.com/ashhadufaridi.jizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashhadufaridi.jizi" height="30" width="40" /></a>
+<a href="https://instagram.com/syed_____faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_____faridi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
