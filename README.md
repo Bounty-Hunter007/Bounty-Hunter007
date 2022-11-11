@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://.io)
+
 <h1 align="center">Hi 👋, I'm Syed Muhammad Ash-hadu Faridi</h1>
 <h3 align="center">I am a driven individual who has a strong enthusiasm for the DATABASE and IT sectors. I can engage with a variety of clientele because I have outstanding interpersonal skills in addition to strong technical abilities. In order to develop and enhance my IT skills, I am eager for challenges. Additionally, I have strong communication skills that allow me to interact with a variety of people in an efficient manner. I am looking for a part-time job in the industry where I can use my skills and knowledge, thereby helping the business I work for run more smoothly.</h3>
 
