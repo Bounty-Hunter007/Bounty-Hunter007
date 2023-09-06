@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/syed%20muhammad%20ash-hadu%20faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/syed%20muhammad%20ash-hadu%20faridi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-muhammad-ash-hadu-faridi-19591b241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-muhammad-ash-hadu-faridi-19591b241/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/smashhadufaridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/smashhadufaridi" height="30" width="40" /></a>
 <a href="https://fb.com/https://fb.com/ashhadufaridi.jizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/ashhadufaridi.jizi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/syed_____faridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/syed_____faridi" height="30" width="40" /></a>
